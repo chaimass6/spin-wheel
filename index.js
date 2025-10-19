@@ -4,7 +4,6 @@ const sectors = [
     { color: "#e600ac", text: "#333333", label: "rushi" },
     { color: "#FF5A10", text: "#333333", label: "honey"}, 
     { color: "#00e600", text: "#333333", label: "mini" },
-  
   ];
   
   const events = {
