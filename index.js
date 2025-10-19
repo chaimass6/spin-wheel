@@ -1,12 +1,10 @@
 const sectors = [
-    { color: "#884dff", text: "#333333", label: "AI  and ML" },
-    { color: "#00e6e6", text: "#333333", label: "RENEWABLE ENERGY" },
-    { color: "#e600ac", text: "#333333", label: "AGRITECH" },
-    { color: "#FF5A10", text: "#333333", label: "EDUTECH" },
-    { color: "#00e600", text: "#333333", label: "BLOCKCHAIN" },
-    { color: "#1a53ff", text: "#333333", label: "CYBER SECURITY" },
-    { color: "#FFBC03", text: "#333333", label: "WEB DEV" },
-    { color: "#e60000", text: "#333333", label: "IOT" },
+    { color: "#884dff", text: "#333333", label: "chai" },
+    { color: "#00e6e6", text: "#333333", label: "vyshu" },
+    { color: "#e600ac", text: "#333333", label: "rushi" },
+    { color: "#FF5A10", text: "#333333", label: "honey"}, 
+    { color: "#00e600", text: "#333333", label: "mini" },
+  
   ];
   
   const events = {
